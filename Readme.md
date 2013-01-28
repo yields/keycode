@@ -13,6 +13,7 @@
 var code = require('keycode');
 code('enter');
 // > 13
+```
 
 ## License
 
