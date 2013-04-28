@@ -13,12 +13,14 @@ var map = {
   , alt: 18
   , capslock: 20
   , escape: 27
+  , esc: 27
   , space: 32
   , left: 37
   , up: 38
   , right: 39
   , down: 40
   , del: 46
+  , comma: 188
   , ',': 188
   , '.': 190
   , '/': 191
