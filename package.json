@@ -1,0 +1,12 @@
+{
+  "name": "keycode-component",
+  "description": "keyboard keycode map",
+  "author": "Amir Abu Shareb <yields@icloud.com>",
+  "version": "0.1.0",
+  "keywords": ["keycode"],
+  "component": {
+    "script": {
+      "keycode/index.js": "*"
+    }
+  }
+}
