@@ -2,7 +2,7 @@
   "name": "keycode-component",
   "description": "keyboard keycode map",
   "author": "Amir Abu Shareb <yields@icloud.com>",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "keywords": ["keycode"],
   "component": {
     "script": {
