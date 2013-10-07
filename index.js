@@ -5,6 +5,7 @@
 
 var map = {
     backspace: 8
+  , command: 91
   , tab: 9
   , clear: 12
   , enter: 13
