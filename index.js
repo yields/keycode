@@ -16,6 +16,10 @@ var map = {
   , escape: 27
   , esc: 27
   , space: 32
+  , pageup: 33
+  , pagedown: 34
+  , end: 35
+  , home: 36
   , left: 37
   , up: 38
   , right: 39
