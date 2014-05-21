@@ -55,5 +55,5 @@ var map = {
  */
 
 module.exports = function(name){
-  return map[name] || name.toUpperCase().charCodeAt(0);
+  return map[name.toLowerCase()] || name.toUpperCase().charCodeAt(0);
 };
