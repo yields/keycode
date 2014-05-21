@@ -1,4 +1,11 @@
 
+1.1.0 / 2014-05-21 
+==================
+
+ * allow uppercase keycodes [MatthewMueller]
+ * added f1-f12 modifiers [MatthewMueller]
+ * add "command" key
+
 1.0.0 / 2013-09-16
 ==================
 
