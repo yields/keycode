@@ -1,12 +1,14 @@
 {
-  "name": "keycode-component",
+  "name": "yields-keycode",
   "description": "keyboard keycode map",
   "author": "Amir Abu Shareb <yields@icloud.com>",
   "version": "1.1.0",
   "keywords": ["keycode"],
+  "license": "MIT",
+  "main": "index.js",
   "component": {
     "script": {
-      "keycode/index.js": "*"
+      "keycode/index.js": "index.js"
     }
   }
 }
