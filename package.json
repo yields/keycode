@@ -10,5 +10,9 @@
     "script": {
       "keycode/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yields/keycode.git"
   }
 }
